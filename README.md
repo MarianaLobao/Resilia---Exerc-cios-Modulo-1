@@ -14,7 +14,7 @@ Desenvolvimento de exercícios dentro do Curso Resília em Data Analytics, utili
 Primeiramente deve-se clonar o repositório para sua máquina, com o seguinte comando no Git:
 
 ```shell
-git clone https://github.com/enilaester/Resilia-Modulo1-Chatbot.git
+git clone https://github.com/MarianaLobao/Resilia-Exercicios-Modulo-1.git
 ```
 
 Em caso de dúvidas, acesse:
